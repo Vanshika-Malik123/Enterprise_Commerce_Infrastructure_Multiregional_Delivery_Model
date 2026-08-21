@@ -1,3 +1,8 @@
+
+# IN ORDER TO VIEW THIS PROJECT PLEASE CLICK ONTO DOWNLOAD VIEW RAW FILE . AFTER CLICKING ONTO IT  A FILE WILL BE THERE IN YOUR THIS PC . THEN , LATER YOU CAN SEE IT IN YOUR OWN POWER BI DESKTOP.
+NOTE- Make sure POWER BI is installed in your system 
+
+
 # Enterprise_Commerce_Infrastructure_Multiregional_Delivery_Model
 Interactive Power BI analytics solution for evaluating enterprise commerce performance across multiple regions, products, customers, profitability, and shipping. Transforms transactional data into actionable business insights through KPI-driven dashboards, data modeling, and interactive visualizations.
 
